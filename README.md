@@ -1,2 +1,2 @@
 # mahjong
-Mahjong strategy?
+Mahjong strategy? WIP, maybe.
